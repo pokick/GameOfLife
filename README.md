@@ -11,7 +11,7 @@ Written in QT.
 Project created for passing project class in University of Technogoy and Science.
 
 ## Author
-..* Przemysław Wnęk - all of it
+* Przemysław Wnęk - all of it
 
 
 ## License
